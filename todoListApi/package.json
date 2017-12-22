@@ -1,0 +1,25 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "followthrough of RESTful API tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtannas/hello-API.git"
+  },
+  "keywords": [
+    "tutorial",
+    "node",
+    "API",
+    "REST"
+  ],
+  "author": "Joel Tannas, tutorial by Olatunde Garuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtannas/hello-API/issues"
+  },
+  "homepage": "https://github.com/jtannas/hello-API#readme"
+}
